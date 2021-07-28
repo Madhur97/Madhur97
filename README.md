@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey there, I'm Madhur Agarwal 👋
 
-<!--
-**Madhur97/Madhur97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at Amazon as a Software Engineer
+- 👯 I have recently started contribution to [Cluster API and it's providers](https://github.com/kubernetes-sigs/cluster-api)
+- 😄 Pronouns: he/him
+- 💞️ You can reach me out on Slack with handle `@Madhur Agarwal` 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Madhur97&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
