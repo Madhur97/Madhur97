@@ -1,6 +1,6 @@
 ### Hey there, I'm Madhur Agarwal 👋
 
-- 🔭 I’m currently working at Amazon as a Software Engineer
+- 🔭 I’m currently working at VMWare as a Software Engineer
 - 👯 I have recently started contribution to [Cluster API and it's providers](https://github.com/kubernetes-sigs/cluster-api)
 - 😄 Pronouns: he/him
 - You can reach me out on Slack with handle `@Madhur Agarwal` 
